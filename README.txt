@@ -28,5 +28,5 @@ separo el JSON en partes para poder trabajar solamente con las provincias y lueg
 encontrar la deseada, sacar los datos particulares de cada una.
 
 LOGGER 
-Una clase encargada del manejo del archivo LogFile para guardar el LOG de eventos del programa.
+Una clase encargada del manejo del archivo log.txt para guardar el LOG de eventos del programa.
 
